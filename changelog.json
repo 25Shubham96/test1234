@@ -1,29 +1,10 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": 10,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 2,
+  "url": "https://drive.google.com/file/d/17RFi1aQZFhSMc0UXHlhEaq6eJiSNm6Sg/view?usp=sharing",
   "releaseNotes": [
     "- First evolution",
     "- Second evolution",
     "- Bug fixes"
   ]
 }
-
-
-<Soap:Envelope xmlns:Soap="http://schemas.xmlsoap.org/soap/envelope/">
-    <Soap:Body>
-        <UpdateCartPrepartionLine_Result xmlns="urn:microsoft-dynamics-schemas/codeunit/Cart_Update">
-            <return_value>Card Line Updated</return_value>
-        </UpdateCartPrepartionLine_Result>
-    </Soap:Body>
-</Soap:Envelope>
-
-
-
-<Soap:Envelope xmlns:Soap="http://schemas.xmlsoap.org/soap/envelope/">
-    <Soap:Body>
-        <UpdateCartPrepartionLine_Result xmlns="urn:microsoft-dynamics-schemas/codeunit/Cart_Update">
-            <return_value/>
-        </UpdateCartPrepartionLine_Result>
-    </Soap:Body>
-</Soap:Envelope>
